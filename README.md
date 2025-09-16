@@ -26,5 +26,8 @@ not guarantee security without disciplined development practices. The work provi
 practical foundation for future research to extend the comparative approach to broader
 PHP ecosystems and diverse real-world applications. Keywords: Cross-site Scripting (XSS), SQL Injection (SQLi), Lightweight Directory Access
 Protocol (LDAP), PentesterLab ISO, Vitual Machine (VM), Model–View–Controller
+
+
+Laravel code aviable here - https://drive.google.com/file/d/1mmqyVe4_wBMdKC2Awp67dc5g9FGhiptA/view?usp=sharing
 Architecture (MVC), Eloquent Object–Relational Mapping (Eloquent ORM), Cross-Site
 Request Forgery Protection (CSRF), Open Web Application Security Project (OWASP).
